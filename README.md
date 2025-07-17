@@ -1,5 +1,7 @@
 # odin-recipes
 
+This small project taught me how to set up correctly HTML webpages, with simple balises.
+It also taught me how to arrange a project.
 
 # Ressources
 https://www.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_6963570.htm#fromView=keyword&page=1&position=0&uuid=2a78fd67-305b-43bd-a24c-cdfd41778f62&query=Lasagna
